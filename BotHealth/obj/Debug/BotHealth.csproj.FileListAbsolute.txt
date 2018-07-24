@@ -1,0 +1,13 @@
+D:\Danes\BotHealth\BotHealth\bin\Debug\BotHealth.exe.config
+D:\Danes\BotHealth\BotHealth\bin\Debug\BotHealth.exe
+D:\Danes\BotHealth\BotHealth\bin\Debug\BotHealth.pdb
+D:\Danes\BotHealth\BotHealth\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Danes\BotHealth\BotHealth\bin\Debug\MaterialSkin.dll
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.csprojAssemblyReference.cache
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.Form1.resources
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.Properties.Resources.resources
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.csproj.GenerateResource.cache
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.csproj.CoreCompileInputs.cache
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.csproj.CopyComplete
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.exe
+D:\Danes\BotHealth\BotHealth\obj\Debug\BotHealth.pdb
